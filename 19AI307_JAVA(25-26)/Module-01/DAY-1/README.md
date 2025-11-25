@@ -41,12 +41,12 @@ To write a Java program that reads two integers and evaluates all relational ope
 2.	Create a Scanner object to read input.
 3.	Read two integer values a and b from the user.
 4.	Evaluate the following relational expressions:
-     a == b
-  	  a != b
-     a > b
-     a < b
-     a >= b
-     a <= b
+     a == b,
+  	a != b,
+     a > b,
+     a < b,
+     a >= b,
+     a <= b.
 5. Print the results in the required format.
 6. Stop the program.
 
@@ -89,5 +89,6 @@ public class RelationalCheck {
 
 ## RESULT:
 Thus, the program successfully evaluates all relational operators for two integers and prints the correct results.
+
 
 
