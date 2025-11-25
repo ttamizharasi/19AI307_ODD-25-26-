@@ -29,6 +29,8 @@ a >= b: <true/false>
 a <= b: <true/false>
 
 For example:
+
+
 <img width="316" height="223" alt="image" src="https://github.com/user-attachments/assets/7a680d81-ca68-42b6-97c2-2a750e6f47ba" />
 
 ## AIM:
@@ -87,4 +89,5 @@ public class RelationalCheck {
 
 ## RESULT:
 Thus, the program successfully evaluates all relational operators for two integers and prints the correct results.
+
 
